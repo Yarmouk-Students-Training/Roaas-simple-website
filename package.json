@@ -1,0 +1,19 @@
+{
+    "name": "yu-course",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "test": "eacho\"error:no test specified\"&& exit 1",
+        "start": "node server.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "ejs": "^3.1.6",
+        "express": "^4.17.1",
+        "loadsh": "^0.0.4",
+        "mongoose": "^5.12.1",
+        "morgan": "^1.10.0"
+    }
+}
